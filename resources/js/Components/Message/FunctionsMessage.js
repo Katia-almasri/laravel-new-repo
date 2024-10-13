@@ -1,3 +1,7 @@
+/**
+ * Create new message and put it directly in the message chat
+ * @param {*} message
+ */
 export function renderRecievedMessage(message) {
     let messageContainer = $("#messages-container");
     messageContainer.append(`<div class="flex mb-4 cursor-pointer">
