@@ -1,0 +1,5 @@
+@import 'Components/sideBarComponent.css';
+/* Adjust the path according to your directory structure */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

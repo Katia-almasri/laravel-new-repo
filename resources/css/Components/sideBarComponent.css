@@ -1,0 +1,11 @@
+#chat-container {
+    position: relative;
+    /* Ensure the container is positioned correctly */
+}
+
+#chat-container>div {
+    overflow-y: auto;
+    /* Enable vertical scrolling */
+    max-height: calc(100vh - 100px);
+    /* Adjust this based on your layout */
+}
