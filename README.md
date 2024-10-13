@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -68,3 +69,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 # first-repo
 
 first and original repo
+=======
+# laravel-new-repo
+>>>>>>> d4d349a26934b8747341fe5c8df83121f9408db9
